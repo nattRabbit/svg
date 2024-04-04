@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 2000 2000" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path d="M672.778 1231.18C643.575 1231.07 661.553 1325.53 685.909 1335.08C698.824 1340.14 698.765 1338.43 700.383 1348.05C711.822 1416.06 725.394 1731.02 759.657 1740.27C860.332 1767.43 1089.86 1780.96 1232.7 1747.67C1254.78 1742.52 1291.93 1428.43 1304.02 1354.13C1305.85 1342.9 1308.16 1349.4 1327.03 1337.6C1338.66 1330.33 1356.07 1237.85 1324.03 1237.66C1126.55 1236.49 895.405 1231.99 672.778 1231.18Z" id="Fill"/>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="792.926" id="Filter" width="405.66" x="1070.81" y="1113.31">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="6.68605"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="786.053" id="Filter_2" width="415.012" x="495.973" y="1102.77">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="6.68605"/>
+</filter>
+<path d="M672.778 1231.18C643.575 1231.07 661.553 1325.53 685.909 1335.08C698.824 1340.14 698.765 1338.43 700.383 1348.05C711.822 1416.06 725.394 1731.02 759.657 1740.27C860.332 1767.43 1089.86 1780.96 1232.7 1747.67C1254.78 1742.52 1291.93 1428.43 1304.02 1354.13C1305.85 1342.9 1308.16 1349.4 1327.03 1337.6C1338.66 1330.33 1356.07 1237.85 1324.03 1237.66C1126.55 1236.49 895.405 1231.99 672.778 1231.18Z" id="Fill_2"/>
+</defs>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M1012.65 1298.29C1001.41 1261.97 999.07 1223.98 986.086 1173.67C969.574 1109.69 930.006 1080.05 914.644 1013.91C911.333 999.653 902.742 940.436 886.296 889.618C884.856 885.169 947.262 947.045 948.862 949.112C999.427 1014.42 985.22 1079.56 989.548 1174.6" fill="#96bd60" fill-rule="nonzero" opacity="1" stroke="#96bd60" stroke-linecap="round" stroke-linejoin="round" stroke-width="17.1009" vectornator:layerName="Curve 27"/>
+<path d="M1027.6 1294.96C979.531 1191.47 992.42 1070.96 1033.29 978.008C1048.86 942.601 1073.31 915.91 1090.57 876.435C1100.35 854.072 1105.88 827.021 1107.28 830.778C1125.26 879.178 1123.92 941.385 1110.74 991.041C1096.44 1044.92 1016.03 1068.61 998.997 1124.52" fill="#96bd60" fill-rule="nonzero" opacity="1" stroke="#96bd60" stroke-linecap="round" stroke-linejoin="round" stroke-width="17.1009" vectornator:layerName="Curve 28"/>
+<g opacity="1" vectornator:layerName="Group 2">
+<use fill="#b5895b" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 2" xlink:href="#Fill"/>
+<clipPath clip-rule="nonzero" id="ClipPath">
+<use xlink:href="#Fill"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<path d="M1114.4 1189.27C1142.8 1242.32 1158.66 1281.22 1144.39 1322.73C1132.01 1335.29 1140.51 1345.46 1118.37 1347.66C1124.7 1455.33 1113.72 1676.6 1087.53 1793.73C1150.99 1904.96 1264.82 1937.32 1352.73 1792.73C1440.64 1648.13 1490.24 1369.22 1439.16 1215.35C1388.09 1061.48 1190.36 1156.15 1114.4 1189.27Z" fill="#a07951" fill-rule="nonzero" filter="url(#Filter)" opacity="1" stroke="none" vectornator:blur="13.3721" vectornator:layerName="Curve 42"/>
+<path d="M858.05 1178.73C829.647 1231.78 813.783 1270.68 828.054 1312.19C840.433 1324.75 834.277 1339.68 856.413 1341.88C852.719 1448.97 868.305 1627.12 894.27 1767.3C830.81 1878.53 707.627 1926.79 619.718 1782.19C531.81 1637.6 482.207 1358.68 533.283 1204.81C584.358 1050.94 782.091 1145.61 858.05 1178.73Z" fill="#a07951" fill-rule="nonzero" filter="url(#Filter_2)" opacity="1" stroke="none" vectornator:blur="13.3721" vectornator:layerName="Curve 43"/>
+</g>
+</g>
+<g opacity="1" vectornator:layerName="Group 3">
+<use fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Curve 2" xlink:href="#Fill_2"/>
+<clipPath clip-rule="nonzero" id="ClipPath_2">
+<use xlink:href="#Fill_2"/>
+</clipPath>
+<g clip-path="url(#ClipPath_2)"/>
+</g>
+<path d="M698.803 1336.1C860.991 1347.62 1100.17 1350.76 1311.63 1344.48" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.82151" vectornator:layerName="Curve 24"/>
+</g>
+</svg>
